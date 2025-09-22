@@ -1,0 +1,5 @@
+{
+  "name": "CV to Personal Site Generator",
+  "description": "An application that takes a CV as input (pasted text) and uses the Gemini API to generate a complete, modern, and aesthetically pleasing personal landing page and blog in one shot.",
+  "requestFramePermissions": []
+}

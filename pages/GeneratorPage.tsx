@@ -89,6 +89,18 @@ const GeneratorPage: React.FC = () => {
                 <div className="text-center mb-8">
                     <h1 className="text-3xl md:text-4xl font-bold text-gray-800 dark:text-white">CV to Personal Site Generator</h1>
                     <p className="text-gray-600 dark:text-gray-300 mt-2">Instantly create a beautiful portfolio and blog from your CV.</p>
+                    <p className="text-sm text-gray-500 dark:text-gray-400 mt-3">
+                        Curious about the person behind this project? Read a short author intro on my{' '}
+                        <a
+                            href="https://ficeskele.github.io/my-astro-site/about/"
+                            className="text-blue-600 hover:underline dark:text-blue-400"
+                            target="_blank"
+                            rel="noreferrer"
+                        >
+                            blog page
+                        </a>
+                        .
+                    </p>
                 </div>
 
                 <div className="mb-6">
